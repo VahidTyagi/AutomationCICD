@@ -39,6 +39,7 @@ public class BaseTest {
 	public WebDriver initializeDriver() throws IOException
 
 	{
+		System.out.println("Direct changes from Github editor");
 		// properties class
 		// C:\Users\vahid.tyagi-ns\eclipse-workspace\SeleniumFrameworkDesignF\SeleniumFrameworkDesignF\src\main\java\rahulshettyacademy\resources
 		//	  /SeleniumFrameworkDesignF/src/main/java/rahulshettyacademy/resources/GlobalData.properties
